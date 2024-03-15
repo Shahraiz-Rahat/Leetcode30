@@ -1,0 +1,2 @@
+# Leetcode30
+Challange 
